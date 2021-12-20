@@ -1,0 +1,21 @@
+{
+  "name": "multiplier-flashloan-arbitrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node flashloan.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "bignumber.js": "^9.0.2",
+    "dotenv": "^10.0.0",
+    "web3": "^1.6.1"
+  }
+}
