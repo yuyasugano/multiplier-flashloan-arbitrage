@@ -3,7 +3,7 @@
 A sample application invokes a flashloan with `Multipler Flashloan`.  
 To know details about `Flash Swaps`: visit https://docs.multiplier.finance/key-features/flash-loan  
   
-Article: visit TBD  
+Article: visit https://yuyasugano.medium.com/multiplier-flashloan-introduction-aave-compatible-part-1-d255a4ba2b46  
   
 ## Disclaimer
 This repo is not either an investment advice or a recommendation or solicitation to buy or sell any investment and should not be used in the evaluation of the merits of making any investment decision. It should not be relied upon for accounting, legal or tax advice or investment recommendations. The contents reflected herein are subject to change without being updated. 
